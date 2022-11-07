@@ -6,7 +6,7 @@ __pycache__/
 # data files
 /data
 /logs
-
+/weights
 # C extensions
 *.so
 
